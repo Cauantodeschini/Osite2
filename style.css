@@ -4,17 +4,22 @@
 }
 header{
     height: 150px;
-    width: 1295px;
+    width: 1677px;
     padding-top: 100px;
-    background-color: black;
+    background-color: aqua;
 }
 main{
     height: 400px;
+    width: 1695px;
+    background-color: blue;
+}
+main{
+    height: 719px;
     width: 100%;
     background-color: black;
 }
 aside{
-    height: 400px;
+    height: 719px;
     width: 100%;
     background-color: black;
     position: relative;
@@ -27,6 +32,7 @@ footer{
 #roi{
     width: 300px;
 }
+
 #sao{
     width: 130px;
 }
@@ -47,4 +53,7 @@ footer{
 }
 #ee{
     color: white;
+}
+#ww{
+    width: 200px;
 }
